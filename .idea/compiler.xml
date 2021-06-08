@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sp4-chap08" />
+        <module name="sp4-chap09" />
+        <module name="sp4-chap06" />
+        <module name="sp4-chap07" />
+        <module name="sp4-chap11" />
+        <module name="sp4-chap12" />
+        <module name="sp4-chap04" />
+        <module name="sp4-chap05" />
+        <module name="sp4-chap16" />
+        <module name="sp4-chap02" />
+        <module name="sp4-chap13" />
+        <module name="sp4-chap03" />
+        <module name="sp4-chap14" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sp4-chap02" target="1.5" />
+      <module name="sp4-chap03" target="1.5" />
+      <module name="sp4-chap04" target="1.5" />
+      <module name="sp4-chap05" target="1.5" />
+      <module name="sp4-chap06" target="1.5" />
+      <module name="sp4-chap07" target="1.5" />
+      <module name="sp4-chap08" target="1.5" />
+      <module name="sp4-chap09" target="1.5" />
+      <module name="sp4-chap11" target="1.5" />
+      <module name="sp4-chap12" target="1.5" />
+      <module name="sp4-chap13" target="1.5" />
+      <module name="sp4-chap14" target="1.5" />
+      <module name="sp4-chap16" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

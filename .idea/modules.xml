@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sp4-chap02/sp4-chap02.iml" filepath="$PROJECT_DIR$/sp4-chap02/sp4-chap02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp4-chap03/sp4-chap03.iml" filepath="$PROJECT_DIR$/sp4-chap03/sp4-chap03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp4-chap04/sp4-chap04.iml" filepath="$PROJECT_DIR$/sp4-chap04/sp4-chap04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp4-chap05/sp4-chap05.iml" filepath="$PROJECT_DIR$/sp4-chap05/sp4-chap05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp4-chap06/sp4-chap06.iml" filepath="$PROJECT_DIR$/sp4-chap06/sp4-chap06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp4-chap07/sp4-chap07.iml" filepath="$PROJECT_DIR$/sp4-chap07/sp4-chap07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp4-chap08/sp4-chap08.iml" filepath="$PROJECT_DIR$/sp4-chap08/sp4-chap08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp4-chap09/sp4-chap09.iml" filepath="$PROJECT_DIR$/sp4-chap09/sp4-chap09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp4-chap11/sp4-chap11.iml" filepath="$PROJECT_DIR$/sp4-chap11/sp4-chap11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp4-chap12/sp4-chap12.iml" filepath="$PROJECT_DIR$/sp4-chap12/sp4-chap12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp4-chap13/sp4-chap13.iml" filepath="$PROJECT_DIR$/sp4-chap13/sp4-chap13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp4-chap14/sp4-chap14.iml" filepath="$PROJECT_DIR$/sp4-chap14/sp4-chap14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp4-chap16/sp4-chap16.iml" filepath="$PROJECT_DIR$/sp4-chap16/sp4-chap16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring4fs.iml" filepath="$PROJECT_DIR$/.idea/spring4fs.iml" />
+    </modules>
+  </component>
+</project>
